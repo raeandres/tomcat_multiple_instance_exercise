@@ -1,0 +1,984 @@
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+23-Mar-2025 02:53:29.664 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 02:53:29.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 02:53:29.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 02:53:29.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:53:29.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 02:53:29.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 02:53:29.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 02:53:29.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 02:53:29.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:53:29.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:53:29.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 02:53:29.682 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 02:53:29.841 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:53:29.859 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:53:29.860 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [302] milliseconds
+23-Mar-2025 02:53:29.880 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 02:53:29.880 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 02:53:29.888 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 02:53:30.043 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [155] ms
+23-Mar-2025 02:53:30.043 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 02:53:30.055 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [12] ms
+23-Mar-2025 02:53:30.056 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 02:53:30.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [19] ms
+23-Mar-2025 02:53:30.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 02:53:30.186 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [111] ms
+23-Mar-2025 02:53:30.186 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 02:53:30.193 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 02:53:30.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 02:53:30.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 02:53:30.204 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:53:30.211 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 02:53:30.211 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [350] milliseconds
+23-Mar-2025 02:53:49.270 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 02:53:49.271 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:53:49.273 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:53:49.273 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 02:53:49.284 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:53:49.299 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:53:49.299 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:53:49.299 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+23-Mar-2025 02:55:05.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 02:55:05.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 02:55:05.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 02:55:05.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 02:55:05.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 02:55:05.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 02:55:05.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 02:55:05.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 02:55:05.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 02:55:05.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:55:05.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 02:55:05.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 02:55:05.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 02:55:05.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 02:55:05.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 02:55:05.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:55:05.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:55:05.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 02:55:05.607 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 02:55:05.768 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:55:05.785 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:55:05.785 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [300] milliseconds
+23-Mar-2025 02:55:05.805 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 02:55:05.805 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 02:55:05.812 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 02:55:05.954 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [141] ms
+23-Mar-2025 02:55:05.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 02:55:05.964 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [10] ms
+23-Mar-2025 02:55:05.964 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 02:55:05.980 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [16] ms
+23-Mar-2025 02:55:05.980 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 02:55:06.088 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [108] ms
+23-Mar-2025 02:55:06.089 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 02:55:06.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 02:55:06.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 02:55:06.105 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 02:55:06.106 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:55:06.112 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 02:55:06.113 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [326] milliseconds
+23-Mar-2025 02:56:27.696 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 02:56:27.697 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:56:27.700 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:56:27.700 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 02:56:27.711 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:56:27.713 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:56:27.714 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:56:27.714 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:56:39.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 02:56:39.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 02:56:39.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 02:56:39.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 02:56:39.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 02:56:39.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 02:56:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 02:56:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 02:56:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 02:56:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:56:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:56:39.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:56:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 02:56:39.971 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 02:56:40.112 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:56:40.126 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:56:40.126 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [251] milliseconds
+23-Mar-2025 02:56:40.143 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 02:56:40.143 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 02:56:40.151 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 02:56:40.279 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [128] ms
+23-Mar-2025 02:56:40.279 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 02:56:40.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [10] ms
+23-Mar-2025 02:56:40.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 02:56:40.305 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [16] ms
+23-Mar-2025 02:56:40.306 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 02:56:40.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [102] ms
+23-Mar-2025 02:56:40.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 02:56:40.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 02:56:40.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 02:56:40.424 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 02:56:40.426 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:56:40.431 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 02:56:40.432 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [304] milliseconds
+23-Mar-2025 02:57:34.446 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 02:57:34.447 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:57:34.450 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:57:34.450 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 02:57:34.459 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:57:34.462 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:57:34.462 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:57:34.462 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:57:42.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:57:42.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:57:42.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 02:57:42.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 02:57:42.773 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 02:57:42.913 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:57:42.927 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:57:42.928 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [253] milliseconds
+23-Mar-2025 02:57:42.943 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 02:57:42.943 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 02:57:42.950 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 02:57:43.077 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [127] ms
+23-Mar-2025 02:57:43.077 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 02:57:43.088 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [11] ms
+23-Mar-2025 02:57:43.088 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 02:57:43.104 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [16] ms
+23-Mar-2025 02:57:43.104 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 02:57:43.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [99] ms
+23-Mar-2025 02:57:43.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 02:57:43.210 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 02:57:43.210 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 02:57:43.219 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 02:57:43.220 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:57:43.227 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 02:57:43.227 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [299] milliseconds
+23-Mar-2025 02:58:28.810 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 02:58:28.811 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:58:28.813 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:58:28.813 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 02:58:28.823 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:58:28.826 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 02:58:28.826 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 02:58:28.826 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+23-Mar-2025 03:22:44.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:22:44.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:22:44.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 03:22:44.867 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 03:22:45.025 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:22:45.043 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:22:45.044 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [295] milliseconds
+23-Mar-2025 03:22:45.062 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 03:22:45.062 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 03:22:45.071 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 03:22:45.220 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [148] ms
+23-Mar-2025 03:22:45.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 03:22:45.230 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [10] ms
+23-Mar-2025 03:22:45.230 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 03:22:45.247 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [17] ms
+23-Mar-2025 03:22:45.247 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 03:22:45.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [108] ms
+23-Mar-2025 03:22:45.356 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 03:22:45.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [6] ms
+23-Mar-2025 03:22:45.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 03:22:45.371 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [8] ms
+23-Mar-2025 03:22:45.373 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:22:45.378 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 03:22:45.379 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [334] milliseconds
+23-Mar-2025 03:25:58.658 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 03:25:58.658 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:25:58.660 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:25:58.660 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 03:25:58.670 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:25:58.673 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:25:58.673 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:25:58.673 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:26:10.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 03:26:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 03:26:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 03:26:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 03:26:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 03:26:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 03:26:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 03:26:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 03:26:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 03:26:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:26:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 03:26:10.774 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 03:26:10.779 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 03:26:10.922 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:26:10.935 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:26:10.936 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [253] milliseconds
+23-Mar-2025 03:26:10.952 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 03:26:10.952 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 03:26:10.958 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 03:26:11.084 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [126] ms
+23-Mar-2025 03:26:11.084 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 03:26:11.094 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [10] ms
+23-Mar-2025 03:26:11.094 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 03:26:11.110 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [16] ms
+23-Mar-2025 03:26:11.110 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 03:26:11.211 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [101] ms
+23-Mar-2025 03:26:11.211 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 03:26:11.218 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 03:26:11.218 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 03:26:11.227 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 03:26:11.228 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:26:11.234 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 03:26:11.235 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [298] milliseconds
+23-Mar-2025 03:26:38.356 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 03:26:38.357 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:26:38.359 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:26:38.359 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 03:26:38.369 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:26:38.372 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 03:26:38.372 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 03:26:38.372 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+Unrecognized option: -X512m
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+23-Mar-2025 04:01:51.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 04:01:51.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 04:01:51.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 04:01:51.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:01:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 04:01:51.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:01:51.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:01:51.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 04:01:51.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 04:01:51.886 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:01:51.901 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:01:51.902 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [254] milliseconds
+23-Mar-2025 04:01:51.918 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 04:01:51.919 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 04:01:51.922 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 04:01:52.052 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [130] ms
+23-Mar-2025 04:01:52.052 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 04:01:52.068 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [16] ms
+23-Mar-2025 04:01:52.068 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 04:01:52.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [106] ms
+23-Mar-2025 04:01:52.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample]
+23-Mar-2025 04:01:52.187 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample] has finished in [13] ms
+23-Mar-2025 04:01:52.187 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 04:01:52.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 04:01:52.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 04:01:52.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 04:01:52.204 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:01:52.210 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 04:01:52.210 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [308] milliseconds
+23-Mar-2025 04:02:33.337 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 04:02:33.337 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:02:33.340 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:02:33.340 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 04:02:33.351 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:02:33.352 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:02:33.352 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:02:33.352 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:12:38.167 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 04:12:38.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:12:38.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:12:38.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 04:12:38.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 04:12:38.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 04:12:38.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:12:38.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 04:12:38.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 04:12:38.321 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:12:38.335 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:12:38.336 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [255] milliseconds
+23-Mar-2025 04:12:38.353 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 04:12:38.353 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 04:12:38.358 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 04:12:38.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [133] ms
+23-Mar-2025 04:12:38.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 04:12:38.508 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [17] ms
+23-Mar-2025 04:12:38.508 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 04:12:38.618 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [109] ms
+23-Mar-2025 04:12:38.618 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample]
+23-Mar-2025 04:12:38.630 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample] has finished in [12] ms
+23-Mar-2025 04:12:38.630 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 04:12:38.638 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [8] ms
+23-Mar-2025 04:12:38.638 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 04:12:38.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [8] ms
+23-Mar-2025 04:12:38.648 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:12:38.654 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 04:12:38.654 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [317] milliseconds
+23-Mar-2025 04:14:18.653 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 04:14:18.654 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:14:18.656 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:14:18.656 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 04:14:18.667 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:14:18.668 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:14:18.669 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:14:18.669 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:14:31.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:14:31.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:14:31.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 04:14:31.950 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 04:14:32.092 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:14:32.106 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:14:32.106 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [252] milliseconds
+23-Mar-2025 04:14:32.124 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 04:14:32.124 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 04:14:32.127 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 04:14:32.263 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [135] ms
+23-Mar-2025 04:14:32.263 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 04:14:32.280 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [17] ms
+23-Mar-2025 04:14:32.281 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 04:14:32.396 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [115] ms
+23-Mar-2025 04:14:32.396 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample]
+23-Mar-2025 04:14:32.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample] has finished in [12] ms
+23-Mar-2025 04:14:32.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 04:14:32.416 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [8] ms
+23-Mar-2025 04:14:32.416 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 04:14:32.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [9] ms
+23-Mar-2025 04:14:32.427 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:14:32.433 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 04:14:32.434 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [326] milliseconds
+23-Mar-2025 04:15:41.392 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 04:15:41.392 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:15:41.395 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:15:41.395 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 04:15:41.405 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:15:41.407 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:15:41.407 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:15:41.407 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:18:09.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 04:18:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:18:09.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 04:18:09.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:18:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:18:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 04:18:09.496 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 04:18:09.637 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:18:09.652 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:18:09.653 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [259] milliseconds
+23-Mar-2025 04:18:09.669 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 04:18:09.669 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 04:18:09.672 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 04:18:09.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [131] ms
+23-Mar-2025 04:18:09.803 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 04:18:09.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [15] ms
+23-Mar-2025 04:18:09.819 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 04:18:09.928 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [110] ms
+23-Mar-2025 04:18:09.928 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample]
+23-Mar-2025 04:18:09.939 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample] has finished in [11] ms
+23-Mar-2025 04:18:09.940 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 04:18:09.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 04:18:09.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 04:18:09.956 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [8] ms
+23-Mar-2025 04:18:09.957 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:18:09.963 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 04:18:09.964 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [309] milliseconds
+23-Mar-2025 04:19:10.000 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+23-Mar-2025 04:19:10.009 SEVERE [Catalina-utility-1] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [52] column [37]
+	org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 37; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1522)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1546)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:630)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:926)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1139)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1121)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+23-Mar-2025 04:19:10.010 SEVERE [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 37; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1546)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:630)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:926)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1139)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1121)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+23-Mar-2025 04:19:20.015 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+23-Mar-2025 04:19:20.018 SEVERE [Catalina-utility-2] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [52] column [36]
+	org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 36; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1522)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1546)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:630)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:926)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1139)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1121)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+23-Mar-2025 04:19:20.019 SEVERE [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 36; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1546)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:376)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:630)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:926)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1139)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1121)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+23-Mar-2025 04:19:30.026 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+23-Mar-2025 04:19:40.042 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+23-Mar-2025 04:19:50.053 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/tomcat-users.xml]
+23-Mar-2025 04:20:22.991 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 04:20:22.992 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:20:22.994 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:20:22.994 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 04:20:23.003 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:20:23.005 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:20:23.005 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:20:23.005 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:20:41.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.5
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 28 2025 15:54:41 UTC
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.5.0
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.3.1
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:20:41.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:20:41.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/conf/logging.properties
+23-Mar-2025 04:20:41.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2025 04:20:41.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Mar-2025 04:20:41.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1
+23-Mar-2025 04:20:41.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/temp
+23-Mar-2025 04:20:41.225 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rae-anandres/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+23-Mar-2025 04:20:41.366 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:20:41.380 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:20:41.381 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [254] milliseconds
+23-Mar-2025 04:20:41.398 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Mar-2025 04:20:41.398 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.5]
+23-Mar-2025 04:20:41.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs]
+23-Mar-2025 04:20:41.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/docs] has finished in [127] ms
+23-Mar-2025 04:20:41.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager]
+23-Mar-2025 04:20:41.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/manager] has finished in [17] ms
+23-Mar-2025 04:20:41.546 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples]
+23-Mar-2025 04:20:41.659 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/examples] has finished in [114] ms
+23-Mar-2025 04:20:41.659 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample]
+23-Mar-2025 04:20:41.672 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample] has finished in [13] ms
+23-Mar-2025 04:20:41.672 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT]
+23-Mar-2025 04:20:41.679 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/ROOT] has finished in [7] ms
+23-Mar-2025 04:20:41.679 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager]
+23-Mar-2025 04:20:41.687 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/host-manager] has finished in [8] ms
+23-Mar-2025 04:20:41.688 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:20:41.694 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to start component [Connector["ajp-nio-0:0:0:0:0:0:0:1-8009"]]
+	org.apache.catalina.LifecycleException: Protocol handler start failed
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1087)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:866)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:759)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:470)
+	Caused by: java.lang.IllegalArgumentException: The AJP Connector is configured with secretRequired="true" but the secret attribute is either null or "". This combination is not valid.
+		at org.apache.coyote.ajp.AbstractAjpProtocol.start(AbstractAjpProtocol.java:255)
+		at org.apache.catalina.connector.Connector.startInternal(Connector.java:1084)
+		... 10 more
+23-Mar-2025 04:20:41.695 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [313] milliseconds
+23-Mar-2025 04:21:16.369 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/sample]
+23-Mar-2025 04:21:16.400 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war]
+23-Mar-2025 04:21:16.419 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rae-anandres/CATALINA_HOME/tomcat/tomcat1/webapps/sample.war] has finished in [19] ms
+23-Mar-2025 04:22:52.474 INFO [Async0-Thread] async.Async0$1.run Putting AsyncThread to sleep
+23-Mar-2025 04:22:54.482 INFO [Async0-Thread] async.Async0$1.run Dispatching
+23-Mar-2025 04:22:54.487 INFO [http-nio-8080-exec-15] async.Async0.service Received dispatch, completing on the worker thread.
+23-Mar-2025 04:22:54.487 INFO [http-nio-8080-exec-15] async.Async0.service After complete called started:false
+2025-03-23 04:24:06.124 java[87740:746502] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-23 04:24:06.125 java[87740:746502] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+23-Mar-2025 04:29:13.157 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Mar-2025 04:29:13.157 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:29:13.161 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:29:13.161 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Mar-2025 04:29:13.171 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:29:13.174 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Mar-2025 04:29:13.174 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
+23-Mar-2025 04:29:13.174 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-0:0:0:0:0:0:0:1-8009"]
